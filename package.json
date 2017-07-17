@@ -1,5 +1,5 @@
 {
-  "name": "passport-service",
+  "name": "@mintx/passport-service",
   "version": "2.3.1",
   "description": "A HTTP auth service using passport and connecting to Mongo",
   "main": "index.js",
